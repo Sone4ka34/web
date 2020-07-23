@@ -1,0 +1,10 @@
+.wrapper{
+    width: 50%;
+    margin: auto;
+}
+.wrapper h3 {
+   font-family: 'Cormorant Garamond', serif;
+}
+.wrapper p{
+    font-family: 'Playfair Display SC', serif;
+}
